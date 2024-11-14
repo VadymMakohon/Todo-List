@@ -8,3 +8,11 @@ This Todo List app is a straightforward JavaScript project designed to help user
 
 ## License
 Distributed under the MIT License. See LICENSE for more information.
+
+### Show your support
+
+Give a ⭐ if you like these projects!
+
+# Contributors
+
+- [Vadym Makohon](https://github.com/VadymMakohon)
